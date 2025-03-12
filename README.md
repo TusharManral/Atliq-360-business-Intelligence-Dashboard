@@ -6,7 +6,7 @@ AtliQ Hardware, a rapidly expanding consumer electronics company operating acros
 
 To overcome this, senior executives initiated a Data Analytics Transformation by investing in Power BI, enabling data-driven decision-making and fueling business growth.
 
-Explore the Live Dashboard Here: 
+Explore the Live Dashboard Here: http://bit.ly/3XoOTV1
 
 **Power BI Dashboard Insights**
 
@@ -47,9 +47,13 @@ Strategic Insights – Data-driven executive decision support for long-term busi
 Since this is a personal project, the focus is on demonstrating data-driven decision-making and showcasing how organizations can use analytics to improve business performance.
 
 ✅ Enhanced Sales Analytics – Identified top-performing and underperforming products & customers.
+
 ✅ Finance Insights – Developed Profit & Loss dashboards, enabling better financial planning.
+
 ✅ Optimized Marketing Efforts – Analyzed Customer Acquisition Cost (CAC) and Lifetime Value (LTV).
+
 ✅ Supply Chain Optimization – Improved forecast accuracy and reduced inventory inefficiencies.
+
 ✅ Executive-Level Reporting – Provided high-level KPIs and strategic insights for business growth.
 
 **Impact:**
