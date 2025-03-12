@@ -67,8 +67,13 @@ Showcased expertise in Power BI, data modeling, and business intelligence.
 **Future Enhancements**
 
 🔹 Integration with Real-Time Data Pipelines – Ensuring live business intelligence.
+
 🔹 AI-Driven Predictive Analytics – Forecasting trends & improving business planning.
+
 🔹 Automated Reporting – Generating real-time reports for executive decision-making.
+
 🔹 Interactive Filters & Drill-Downs – Enhancing user-driven analysis and deeper insights.
+
 🔹 Embedded BI Solutions – Expanding access to data insights across platforms.
+
 🔹 Enhanced Version Control – Convert project to .pbip format for better tracking in Git.
