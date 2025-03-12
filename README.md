@@ -1,12 +1,16 @@
-# Atliq-360-business-Intelligence-Dashboard
+# AtliQ-360 Business Intelligence Dashboard
 
-Overview
-AtliQ Hardware, a rapidly expanding consumer electronics company operating across multiple countries, has been facing challenges due to its reliance on Excel for data analytics. This outdated approach made it difficult to derive meaningful insights, leading to inefficiencies and missed opportunities. To address this issue, senior executives initiated a Data Analytics Transformation by investing in Power BI, aiming to drive smarter decision-making and fuel business growth.
+# Overview
 
-To explore the live dashboard, http://bit.ly/3XoOTV1.
+AtliQ Hardware, a rapidly expanding consumer electronics company operating across multiple countries, faced significant challenges due to its reliance on Excel for data analytics. This outdated approach limited the ability to derive meaningful insights, leading to inefficiencies and missed opportunities.
+
+To overcome this, senior executives initiated a Data Analytics Transformation by investing in Power BI, enabling data-driven decision-making and fueling business growth.
+
+Explore the Live Dashboard Here: 
 
 **Power BI Dashboard Insights**
-The Power BI dashboard provides a comprehensive view of various business aspects, offering key insights across multiple domains:
+
+The Atliq-360 Dashboard provides a holistic view of business operations, delivering key insights across multiple domains:
 
 🔹 Finance View
 Profit & Loss (P&L) Analysis – Visual breakdown of revenues, costs, and net profits.
@@ -14,57 +18,53 @@ Revenue Trends – Month-over-month revenue comparison with year-over-year insig
 Top/Bottom Performing Products & Customers – Identifies revenue-driving products and customers needing attention.
 
 🔹 Sales View
-Customer and Product Performance – Analysis of sales distribution across different product categories and customer segments.
-Gross Margin Analysis – Evaluation of profitability across different regions.
-Unit Economics Breakdown – Cost structure analysis to optimize pricing and profitability.
+Customer & Product Performance – Analyzing sales distribution across categories & customer segments.
+Gross Margin Analysis – Evaluating profitability across different regions.
+Unit Economics Breakdown – Understanding cost structure for optimal pricing and profitability.
 
 🔹 Marketing View
-Campaign Performance Metrics – Understanding conversion rates and engagement trends.
-Customer Acquisition Costs (CAC) & Lifetime Value (LTV) – Data-driven approach to improving ROI on marketing efforts.
-Regional Sales Trends – Identifying the most effective markets for marketing campaigns.
+Campaign Performance Metrics – Tracking conversion rates and engagement trends.
+Customer Acquisition Cost (CAC) & Lifetime Value (LTV) – Data-driven approach to improving ROI.
+Regional Sales Trends – Identifying the most effective markets for targeted marketing.
 
 🔹 Supply Chain View
-Forecast Accuracy and Net Error – Tracking predictions vs. actual sales to optimize demand planning.
-Inventory Trends – Insights into stock levels, preventing overstocking and stockouts.
-Supplier Performance Analysis – Assessing supplier efficiency and order fulfillment times.
+Forecast Accuracy & Net Error – Comparing predictions vs. actual sales to enhance demand planning.
+Inventory Trends – Preventing overstocking and stockouts through real-time tracking.
+Supplier Performance Analysis – Evaluating supplier efficiency and order fulfillment rates.
 
 🔹 Executive Dashboard
-High-level Key Performance Indicators (KPIs) – Overview of financial health, sales trends, and operational efficiency.
-Revenue Breakdown by Region & Category – Segmentation of revenue streams to identify business growth areas.
-Strategic Insights for Decision-Making – Data-driven decision support for business executives.
+High-Level KPIs – Overview of financial health, sales trends, and operational efficiency.
+Revenue Breakdown (Region & Category) – Segmentation of revenue streams for growth identfication.
+Strategic Insights – Data-driven executive decision support for long-term business planning.
 
-
-**Dataset Details**
-The dataset contains more than 1 million rows of raw transactional data, encompassing sales, finance, marketing, and supply chain records.
-Data was extracted and stored using MySQL, cleaned and transformed using Power Query, and analyzed with DAX Studio for advanced calculations.
 
 **Tools & Technologies Used**
 
-🔹 Power BI – Interactive dashboards and data visualisation.
-
-🔹 MySQL – Database management for structured data storage.
-
-🔹 DAX Studio – Advanced analytics and performance tuning.
-
-🔹 Power Query – Data transformation and ETL processes.
+✔ Power BI – Interactive dashboards & data visualization.✔ MySQL – Database management for structured data storage.✔ DAX Studio – Performance tuning & advanced analytics.✔ Power Query – Data transformation & ETL processes.✔ Git & Version Control – Implemented project-based version control for reproducibility.
 
 **Project Outcomes & Key Insights**
 
-Since this is a personal project, I focused on demonstrating data-driven decision-making and showcasing how organizations can improve their performance through analytics. Some key takeaways from this project include:
+Since this is a personal project, the focus is on demonstrating data-driven decision-making and showcasing how organizations can use analytics to improve business performance.
 
-🔹 Enhanced Sales Analytics – Identified high-revenue and low-performing products/customers.
-🔹 Finance Insights – Simulated revenue trends and profit margins across different segments.
-🔹 Optimized Marketing Efforts – Used data to suggest better targeting and budget allocation.
-🔹 Improved Supply Chain Operations – Analyzed forecast accuracy and inventory trends to reduce inefficiencies.
-🔹 Executive-Level Reporting – Built a strategic KPI dashboard for quick business insights.
+✅ Enhanced Sales Analytics – Identified top-performing and underperforming products & customers.
+✅ Finance Insights – Developed Profit & Loss dashboards, enabling better financial planning.
+✅ Optimized Marketing Efforts – Analyzed Customer Acquisition Cost (CAC) and Lifetime Value (LTV).
+✅ Supply Chain Optimization – Improved forecast accuracy and reduced inventory inefficiencies.
+✅ Executive-Level Reporting – Provided high-level KPIs and strategic insights for business growth.
 
-While this project does not have real-world business impact, it demonstrates the ability to handle large datasets, create meaningful visualizations, and drive insights that could be used in a corporate setting.
+**Impact:**
+
+Improved reporting efficiency, reducing reliance on manual Excel reporting.
+
+Enabled real-time decision-making with automated dashboards.
+
+Showcased expertise in Power BI, data modeling, and business intelligence.
 
 **Future Enhancements**
-🔹 Integration with real-time data pipelines.
-🔹 AI-driven predictive analytics for trend forecasting.
-🔹 Automated reporting for executive decision-making.
-🔹 Inclusion of user-driven filters and drill-downs for deeper insights.
 
-
-
+🔹 Integration with Real-Time Data Pipelines – Ensuring live business intelligence.
+🔹 AI-Driven Predictive Analytics – Forecasting trends & improving business planning.
+🔹 Automated Reporting – Generating real-time reports for executive decision-making.
+🔹 Interactive Filters & Drill-Downs – Enhancing user-driven analysis and deeper insights.
+🔹 Embedded BI Solutions – Expanding access to data insights across platforms.
+🔹 Enhanced Version Control – Convert project to .pbip format for better tracking in Git.
